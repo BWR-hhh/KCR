@@ -1,0 +1,232 @@
+{"id": "0", "contents": "[['\"Dodge Custom Royal\"', 'alternativeName', '1955_Dodge']]"}
+{"id": "1", "contents": "[['Convertible', 'bodyStyle', '1955_Dodge']]"}
+{"id": "2", "contents": "[['AMC_V8_engine', 'engine', '1955_Dodge']]"}
+{"id": "3", "contents": "[['Dodge', 'manufacturer', '1955_Dodge']]"}
+{"id": "4", "contents": "[['DeSoto_Custom', 'relatedMeanOfTransportation', '1955_Dodge']]"}
+{"id": "5", "contents": "[['\"3-speed automatic\"', 'transmission', '1955_Dodge']]"}
+{"id": "6", "contents": "[['120.0 (inches)', 'wheelbase', '1955_Dodge']]"}
+{"id": "7", "contents": "[['\"Neptun Werft, Warnem\u00fcnde,\"', 'builder', 'A-Rosa_Luna']]"}
+{"id": "8", "contents": "[['2005-04-06', 'completionDate', 'A-Rosa_Luna']]"}
+{"id": "9", "contents": "[['125800.0 (millimetres)', 'length', 'A-Rosa_Luna']]"}
+{"id": "10", "contents": "[['MTU_Friedrichshafen', 'powerType', 'A-Rosa_Luna']]"}
+{"id": "11", "contents": "[['Cruise_ship', 'shipClass', 'A-Rosa_Luna']]"}
+{"id": "12", "contents": "[['1850.0 (tonnes)', 'shipDisplacement', 'A-Rosa_Luna']]"}
+{"id": "13", "contents": "[['2004-12-16', 'shipLaunch', 'A-Rosa_Luna']]"}
+{"id": "14", "contents": "[['2004-01-22', 'shipOrdered', 'A-Rosa_Luna']]"}
+{"id": "15", "contents": "[['\"2 \u00d7 MTU 16V 2000 M60 engine\"', 'shipPower', 'A-Rosa_Luna']]"}
+{"id": "16", "contents": "[['24.0', 'topSpeed', 'A-Rosa_Luna']]"}
+{"id": "17", "contents": "[['Germany', 'location', 'AIDA_Cruises']]"}
+{"id": "18", "contents": "[['Meyer_Werft', 'builder', 'AIDAluna']]"}
+{"id": "19", "contents": "[['2009-04-04', 'christeningDate', 'AIDAluna']]"}
+{"id": "20", "contents": "[['252000.0 (millimetres)', 'length', 'AIDAluna']]"}
+{"id": "21", "contents": "[['2009-03-22', 'maidenVoyage', 'AIDAluna']]"}
+{"id": "22", "contents": "[['AIDA_Cruises', 'owner', 'AIDAluna']]"}
+{"id": "23", "contents": "[['Caterpillar_Inc.', 'powerType', 'AIDAluna']]"}
+{"id": "24", "contents": "[['32.2', 'shipBeam', 'AIDAluna']]"}
+{"id": "25", "contents": "[['2009-03-22', 'shipInService', 'AIDAluna']]"}
+{"id": "26", "contents": "[['\"In service\"', 'status', 'AIDAluna']]"}
+{"id": "27", "contents": "[['40.744', 'topSpeed', 'AIDAluna']]"}
+{"id": "28", "contents": "[['2013-03-17', 'activeYearsStartDate', 'AIDAstella']]"}
+{"id": "29", "contents": "[['253260.0 (millimetres)', 'length', 'AIDAstella']]"}
+{"id": "30", "contents": "[['Costa_Crociere', 'owner', 'AIDAstella']]"}
+{"id": "31", "contents": "[['32.2', 'shipBeam', 'AIDAstella']]"}
+{"id": "32", "contents": "[['\"Sphinx-class cruise ship\"', 'shipClass', 'AIDAstella']]"}
+{"id": "33", "contents": "[['2008-12-17', 'shipLaidDown', 'AIDAstella']]"}
+{"id": "34", "contents": "[['\"In service\"', 'status', 'AIDAstella']]"}
+{"id": "35", "contents": "[['38.892', 'topSpeed', 'AIDAstella']]"}
+{"id": "36", "contents": "[['\"May 1950 - August 1956\"', 'buildDate', 'ALCO_RS-3']]"}
+{"id": "37", "contents": "[['American_Locomotive_Company', 'builder', 'ALCO_RS-3']]"}
+{"id": "38", "contents": "[['12', 'cylinderCount', 'ALCO_RS-3']]"}
+{"id": "39", "contents": "[['V12_engine', 'engine', 'ALCO_RS-3']]"}
+{"id": "40", "contents": "[['17068.8 (millimetres)', 'length', 'ALCO_RS-3']]"}
+{"id": "41", "contents": "[['Diesel-electric_transmission', 'powerType', 'ALCO_RS-3']]"}
+{"id": "42", "contents": "[['1418', 'totalProduction', 'ALCO_RS-3']]"}
+{"id": "43", "contents": "[['United_States', 'countryOrigin', 'ALV_X-1']]"}
+{"id": "44", "contents": "[['1.524 (metres)', 'diameter', 'ALV_X-1']]"}
+{"id": "45", "contents": "[['1', 'failedLaunches', 'ALV_X-1']]"}
+{"id": "46", "contents": "[['2', 'rocketStages', 'ALV_X-1']]"}
+{"id": "47", "contents": "[['1', 'totalLaunches', 'ALV_X-1']]"}
+{"id": "48", "contents": "[['\"Rambler Matador\"', 'alternativeName', 'AMC_Matador']]"}
+{"id": "49", "contents": "[['\"Australia\"', 'assembly', 'AMC_Matador']]"}
+{"id": "50", "contents": "[['Coup\u00e9', 'bodyStyle', 'AMC_Matador']]"}
+{"id": "51", "contents": "[['Full-size_car', 'class', 'AMC_Matador']]"}
+{"id": "52", "contents": "[['Richard_A._Teague', 'designer', 'AMC_Matador']]"}
+{"id": "53", "contents": "[['AMC_V8_engine', 'engine', 'AMC_Matador']]"}
+{"id": "54", "contents": "[['American_Motors', 'manufacturer', 'AMC_Matador']]"}
+{"id": "55", "contents": "[['1971', 'modelYears', 'AMC_Matador']]"}
+{"id": "56", "contents": "[['Cammell_Laird', 'builder', 'ARA_Veinticinco_de_Mayo_(V-2)']]"}
+{"id": "57", "contents": "[['Argentina', 'country', 'ARA_Veinticinco_de_Mayo_(V-2)']]"}
+{"id": "58", "contents": "[['192000.0 (millimetres)', 'length', 'ARA_Veinticinco_de_Mayo_(V-2)']]"}
+{"id": "59", "contents": "[['24.4', 'shipBeam', 'ARA_Veinticinco_de_Mayo_(V-2)']]"}
+{"id": "60", "contents": "[['\"Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000\"', 'status', 'ARA_Veinticinco_de_Mayo_(V-2)']]"}
+{"id": "61", "contents": "[['Bologna', 'foundationPlace', 'Abarth']]"}
+{"id": "62", "contents": "[['Carlo_Abarth', 'foundedBy', 'Abarth']]"}
+{"id": "63", "contents": "[['\"Two door coup\u00e9\"', 'bodyStyle', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "64", "contents": "[['Gruppo_Bertone', 'designer', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "65", "contents": "[['Abarth', 'manufacturer', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "66", "contents": "[['1958', 'productionStartYear', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "67", "contents": "[['2160.0 (millimetres)', 'wheelbase', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "68", "contents": "[['1.55', 'width', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "69", "contents": "[['Marysville,_Ohio', 'assembly', 'Acura_TLX']]"}
+{"id": "70", "contents": "[['Luxury_vehicle', 'class', 'Acura_TLX']]"}
+{"id": "71", "contents": "[['2.4 (litres)', 'engine', 'Acura_TLX']]"}
+{"id": "72", "contents": "[['\"front-wheel drive / all-wheel drive\"', 'layout', 'Acura_TLX']]"}
+{"id": "73", "contents": "[['Honda', 'manufacturer', 'Acura_TLX']]"}
+{"id": "74", "contents": "[['Airbus_Group', 'parentCompany', 'Airbus_Defence_and_Space']]"}
+{"id": "75", "contents": "[['Arctech_Helsinki_Shipyard', 'builder', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "76", "contents": "[['99.83', 'length', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "77", "contents": "[['Sovcomflot', 'operator', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "78", "contents": "[['W\u00e4rtsil\u00e4', 'powerType', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "79", "contents": "[['21.2', 'shipBeam', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "80", "contents": "[['\"In service\"', 'status', 'Aleksey_Chirikov_(icebreaker)']]"}
+{"id": "81", "contents": "[['\"Alfa Romeo 168\"', 'alternativeName', 'Alfa_Romeo_164']]"}
+{"id": "82", "contents": "[['Italy', 'assembly', 'Alfa_Romeo_164']]"}
+{"id": "83", "contents": "[['Sedan_(automobile)', 'bodyStyle', 'Alfa_Romeo_164']]"}
+{"id": "84", "contents": "[['\"Mid-size luxury / Executive car\"', 'class', 'Alfa_Romeo_164']]"}
+{"id": "85", "contents": "[['2.5 (litres)', 'engine', 'Alfa_Romeo_164']]"}
+{"id": "86", "contents": "[['Saab_9000', 'relatedMeanOfTransportation', 'Alfa_Romeo_164']]"}
+{"id": "87", "contents": "[['\"4-speed automatic (ZF 4HP18Q)\"', 'transmission', 'Alfa_Romeo_164']]"}
+{"id": "88", "contents": "[['63800.0 (millimetres)', 'length', 'Alhambra']]"}
+{"id": "89", "contents": "[['P&O_(company)', 'owner', 'Alhambra']]"}
+{"id": "90", "contents": "[['Humphrys,_Tennant_and_Dykes', 'powerType', 'Alhambra']]"}
+{"id": "91", "contents": "[['1855-05-31', 'shipLaunch', 'Alhambra']]"}
+{"id": "92", "contents": "[['\"Geared steam engine Humphrys, Tennant and Dykes 140hp\"', 'shipPower', 'Alhambra']]"}
+{"id": "93", "contents": "[['AGM-88_HARM', 'product', 'Alliant_Techsystems']]"}
+{"id": "94", "contents": "[['Coventry', 'foundationPlace', 'Alvis_Car_and_Engineering_Company']]"}
+{"id": "95", "contents": "[['Coventry', 'locationCity', 'Alvis_Car_and_Engineering_Company']]"}
+{"id": "96", "contents": "[['Rover_Company', 'successor', 'Alvis_Car_and_Engineering_Company']]"}
+{"id": "97", "contents": "[['\"Full-size luxury car\"', 'class', 'Alvis_Speed_25']]"}
+{"id": "98", "contents": "[['\"Petrol\"', 'engine', 'Alvis_Speed_25']]"}
+{"id": "99", "contents": "[['Alvis_Car_and_Engineering_Company', 'manufacturer', 'Alvis_Speed_25']]"}
+{"id": "100", "contents": "[['\"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"', 'transmission', 'Alvis_Speed_25']]"}
+{"id": "101", "contents": "[['127.0 (inches)', 'wheelbase', 'Alvis_Speed_25']]"}
+{"id": "102", "contents": "[['Schenectady,_New_York', 'foundationPlace', 'American_Locomotive_Company']]"}
+{"id": "103", "contents": "[['United_States', 'locationCountry', 'American_Locomotive_Company']]"}
+{"id": "104", "contents": "[['Chrysler', 'fate', 'American_Motors']]"}
+{"id": "105", "contents": "[['Roy_D._Chapin,_Jr.', 'keyPerson', 'American_Motors']]"}
+{"id": "106", "contents": "[['Wheel_Horse', 'subsidiary', 'American_Motors']]"}
+{"id": "107", "contents": "[['Eagle_(automobile)', 'successor', 'American_Motors']]"}
+{"id": "108", "contents": "[['General_Dynamics_Electric_Boat', 'builder', 'American_submarine_NR-1']]"}
+{"id": "109", "contents": "[['45000.0 (millimetres)', 'length', 'American_submarine_NR-1']]"}
+{"id": "110", "contents": "[['3.8 m', 'shipBeam', 'American_submarine_NR-1']]"}
+{"id": "111", "contents": "[['1969-01-25', 'shipLaunch', 'American_submarine_NR-1']]"}
+{"id": "112", "contents": "[['8.334', 'topSpeed', 'American_submarine_NR-1']]"}
+{"id": "113", "contents": "[['Delta_II', 'comparable', 'Antares_(rocket)']]"}
+{"id": "114", "contents": "[['3.9 (metres)', 'diameter', 'Antares_(rocket)']]"}
+{"id": "115", "contents": "[['2013-09-18', 'finalFlight', 'Antares_(rocket)']]"}
+{"id": "116", "contents": "[['\"Medium expendable launch system\"', 'function', 'Antares_(rocket)']]"}
+{"id": "117", "contents": "[['Mid-Atlantic_Regional_Spaceport', 'launchSite', 'Antares_(rocket)']]"}
+{"id": "118", "contents": "[['2013-04-21', 'maidenFlight', 'Antares_(rocket)']]"}
+{"id": "119", "contents": "[['Orbital_ATK', 'manufacturer', 'Antares_(rocket)']]"}
+{"id": "120", "contents": "[['Buenos_Aires', 'capital', 'Argentina']]"}
+{"id": "121", "contents": "[['Argentines', 'demonym', 'Argentina']]"}
+{"id": "122", "contents": "[['Mauricio_Macri', 'leaderName', 'Argentina']]"}
+{"id": "123", "contents": "[['5.4 (metres)', 'diameter', 'Ariane_5']]"}
+{"id": "124", "contents": "[['2003-09-27', 'finalFlight', 'Ariane_5']]"}
+{"id": "125", "contents": "[['ELA-3', 'launchSite', 'Ariane_5']]"}
+{"id": "126", "contents": "[['1996-06-04', 'maidenFlight', 'Ariane_5']]"}
+{"id": "127", "contents": "[['\"ESA and Arianespace\"', 'manufacturer', 'Ariane_5']]"}
+{"id": "128", "contents": "[['2', 'partialFailures', 'Ariane_5']]"}
+{"id": "129", "contents": "[['Courcouronnes', 'locationCity', 'Arianespace']]"}
+{"id": "130", "contents": "[['France', 'locationCountry', 'Arianespace']]"}
+{"id": "131", "contents": "[['Aston_Martin', 'manufacturer', 'Aston_Martin_DBS']]"}
+{"id": "132", "contents": "[['Aston_Martin_V8', 'successor', 'Aston_Martin_DBS']]"}
+{"id": "133", "contents": "[['\"Newport Pagnell, Buckinghamshire, England, United Kingdom\"', 'assembly', 'Aston_Martin_V8']]"}
+{"id": "134", "contents": "[['Coup\u00e9', 'bodyStyle', 'Aston_Martin_V8']]"}
+{"id": "135", "contents": "[['5.3 (litres)', 'engine', 'Aston_Martin_V8']]"}
+{"id": "136", "contents": "[['Aston_Martin_DBS', 'relatedMeanOfTransportation', 'Aston_Martin_V8']]"}
+{"id": "137", "contents": "[['Aston_Martin_Virage', 'successor', 'Aston_Martin_V8']]"}
+{"id": "138", "contents": "[['Aston_Martin_DBS', 'relatedMeanOfTransportation', 'Aston_Martin_Virage']]"}
+{"id": "139", "contents": "[['3.04 m', 'diameter', 'Atlas_II']]"}
+{"id": "140", "contents": "[['2002-12-05', 'finalFlight', 'Atlas_II']]"}
+{"id": "141", "contents": "[['Cape_Canaveral_Air_Force_Station', 'launchSite', 'Atlas_II']]"}
+{"id": "142", "contents": "[['Lockheed_Martin', 'manufacturer', 'Atlas_II']]"}
+{"id": "143", "contents": "[['Ducati', 'subsidiary', 'Audi']]"}
+{"id": "144", "contents": "[['\"Brussels, Belgium\"', 'assembly', 'Audi_A1']]"}
+{"id": "145", "contents": "[['Hatchback', 'bodyStyle', 'Audi_A1']]"}
+{"id": "146", "contents": "[['Supermini', 'class', 'Audi_A1']]"}
+{"id": "147", "contents": "[['1.2 (litres)', 'engine', 'Audi_A1']]"}
+{"id": "148", "contents": "[['Front-engine,_front-wheel-drive_layout', 'layout', 'Audi_A1']]"}
+{"id": "149", "contents": "[['Audi', 'manufacturer', 'Audi_A1']]"}
+{"id": "150", "contents": "[['Volkswagen_Polo', 'relatedMeanOfTransportation', 'Audi_A1']]"}
+{"id": "151", "contents": "[['\"5-speed manual\"', 'transmission', 'Audi_A1']]"}
+{"id": "152", "contents": "[['United_States', 'foundationPlace', 'Caterpillar_Inc.']]"}
+{"id": "153", "contents": "[['Illinois', 'location', 'Caterpillar_Inc.']]"}
+{"id": "154", "contents": "[['Italy', 'location', 'Costa_Crociere']]"}
+{"id": "155", "contents": "[['Carnival_Corporation_&_plc', 'parentCompany', 'Costa_Crociere']]"}
+{"id": "156", "contents": "[['DeSoto_(automobile)', 'manufacturer', 'DeSoto_Custom']]"}
+{"id": "157", "contents": "[['Dodge_Coronet', 'relatedMeanOfTransportation', 'DeSoto_Custom']]"}
+{"id": "158", "contents": "[['DeSoto_Firedome', 'successor', 'DeSoto_Custom']]"}
+{"id": "159", "contents": "[['United_States', 'countryOrigin', 'Delta_II']]"}
+{"id": "160", "contents": "[['Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_17', 'launchSite', 'Delta_II']]"}
+{"id": "161", "contents": "[['United_Launch_Alliance', 'manufacturer', 'Delta_II']]"}
+{"id": "162", "contents": "[['Sergio_Marchionne', 'keyPerson', 'Dodge']]"}
+{"id": "163", "contents": "[['Arianespace', 'operator', 'ELA-3']]"}
+{"id": "164", "contents": "[['Guiana_Space_Centre', 'site', 'ELA-3']]"}
+{"id": "165", "contents": "[['Opel_Vectra', 'relatedMeanOfTransportation', 'Fiat_Croma']]"}
+{"id": "166", "contents": "[['Finns', 'demonym', 'Finland']]"}
+{"id": "167", "contents": "[['Juha_Sipil\u00e4', 'leaderName', 'Finland']]"}
+{"id": "168", "contents": "[['Groton,_Connecticut', 'locationCity', 'General_Dynamics_Electric_Boat']]"}
+{"id": "169", "contents": "[['General_Dynamics', 'parentCompany', 'General_Dynamics_Electric_Boat']]"}
+{"id": "170", "contents": "[['Berlin', 'capital', 'Germany']]"}
+{"id": "171", "contents": "[['Andreas_Vo\u00dfkuhle', 'leaderName', 'Germany']]"}
+{"id": "172", "contents": "[['Italy', 'foundationPlace', 'Gruppo_Bertone']]"}
+{"id": "173", "contents": "[['Turin', 'locationCity', 'Gruppo_Bertone']]"}
+{"id": "174", "contents": "[['Italy', 'locationCountry', 'Gruppo_Bertone']]"}
+{"id": "175", "contents": "[['French_Guiana', 'headquarter', 'Guiana_Space_Centre']]"}
+{"id": "176", "contents": "[['French_Guiana', 'location', 'Guiana_Space_Centre']]"}
+{"id": "177", "contents": "[['Honda', 'manufacturer', 'Honda_Accord']]"}
+{"id": "178", "contents": "[['Acura_TLX', 'relatedMeanOfTransportation', 'Honda_Accord']]"}
+{"id": "179", "contents": "[['Honda', 'manufacturer', 'Honda_J_engine']]"}
+{"id": "180", "contents": "[['Deptford', 'location', 'Humphrys,_Tennant_and_Dykes']]"}
+{"id": "181", "contents": "[['Rome', 'capital', 'Italy']]"}
+{"id": "182", "contents": "[['Saab_9000', 'relatedMeanOfTransportation', 'Lancia_Thema']]"}
+{"id": "183", "contents": "[['Bethesda,_Maryland', 'location', 'Lockheed_Martin']]"}
+{"id": "184", "contents": "[['Friedrichshafen', 'locationCity', 'MTU_Friedrichshafen']]"}
+{"id": "185", "contents": "[['Rolls-Royce_Holdings', 'owner', 'MTU_Friedrichshafen']]"}
+{"id": "186", "contents": "[['Rolls-Royce_Power_Systems', 'parentCompany', 'MTU_Friedrichshafen']]"}
+{"id": "187", "contents": "[['Antares_(rocket)', 'associatedRocket', 'Mid-Atlantic_Regional_Spaceport_Launch_Pad_0']]"}
+{"id": "188", "contents": "[['Ambrose', 'saint', 'Milan']]"}
+{"id": "189", "contents": "[['Rostock', 'locationCity', 'Neptun_Werft']]"}
+{"id": "190", "contents": "[['Germany', 'locationCountry', 'Neptun_Werft']]"}
+{"id": "191", "contents": "[['London', 'location', 'P&O_(company)']]"}
+{"id": "192", "contents": "[['Plymouth_(automobile)', 'manufacturer', 'Plymouth_Plaza']]"}
+{"id": "193", "contents": "[['1955_Dodge', 'relatedMeanOfTransportation', 'Plymouth_Plaza']]"}
+{"id": "194", "contents": "[['Plymouth_Satellite', 'successor', 'Plymouth_Plaza']]"}
+{"id": "195", "contents": "[['Chrysler', 'employer', 'Richard_A._Teague']]"}
+{"id": "196", "contents": "[['Germany', 'country', 'Rostock']]"}
+{"id": "197", "contents": "[['Audi_A1', 'relatedMeanOfTransportation', 'SEAT_Ibiza']]"}
+{"id": "198", "contents": "[['Alfa_Romeo_164', 'relatedMeanOfTransportation', 'Saab_9000']]"}
+{"id": "199", "contents": "[['Sergey_Naryshkin', 'keyPerson', 'Sovcomflot']]"}
+{"id": "200", "contents": "[['United_States_Air_Force', 'operator', 'Spaceport_Florida_Launch_Complex_36']]"}
+{"id": "201", "contents": "[['London', 'capital', 'United_Kingdom']]"}
+{"id": "202", "contents": "[['Elizabeth_II', 'leaderName', 'United_Kingdom']]"}
+{"id": "203", "contents": "[['Washington,_D.C.', 'capital', 'United_States']]"}
+{"id": "204", "contents": "[['Americans', 'demonym', 'United_States']]"}
+{"id": "205", "contents": "[['African_Americans', 'ethnicGroup', 'United_States']]"}
+{"id": "206", "contents": "[['English_language', 'language', 'United_States']]"}
+{"id": "207", "contents": "[['President_of_the_United_States', 'leaderTitle', 'United_States']]"}
+{"id": "208", "contents": "[['United_States_Air_Force', 'operator', 'Vandenberg_AFB_Space_Launch_Complex_3']]"}
+{"id": "209", "contents": "[['Lompoc,_California', 'location', 'Vandenberg_Air_Force_Base']]"}
+{"id": "210", "contents": "[['Audi_A1', 'relatedMeanOfTransportation', 'Volkswagen_Polo']]"}
+{"id": "211", "contents": "[['Dnipropetrovsk', 'location', 'Yuzhnoye_Design_Office']]"}
+{"id": "212", "contents": "[['\"Sphinx class cruise ship\"', 'shipClass', 'AIDAluna']]"}
+{"id": "213", "contents": "[['Meyer_Werft', 'builder', 'AIDAstella']]"}
+{"id": "214", "contents": "[['2013-03-11', 'completionDate', 'AIDAstella']]"}
+{"id": "215", "contents": "[['2013-03-17', 'maidenVoyage', 'AIDAstella']]"}
+{"id": "216", "contents": "[['2013-03-17', 'shipInService', 'AIDAstella']]"}
+{"id": "217", "contents": "[['Alliant_Techsystems', 'manufacturer', 'ALV_X-1']]"}
+{"id": "218", "contents": "[['1958', 'productionEndYear', 'Abarth_1000_GT_Coup\u00e9']]"}
+{"id": "219", "contents": "[['1855-07-07', 'maidenVoyage', 'Alhambra']]"}
+{"id": "220", "contents": "[['8.3 m', 'shipBeam', 'Alhambra']]"}
+{"id": "221", "contents": "[['4.6 m', 'shipDraft', 'American_submarine_NR-1']]"}
+{"id": "222", "contents": "[['Aston_Martin', 'manufacturer', 'Aston_Martin_V8']]"}
+{"id": "223", "contents": "[['United_States', 'countryOrigin', 'Atlas_II']]"}
+{"id": "224", "contents": "[['Germany', 'location', 'Meyer_Werft']]"}
+{"id": "225", "contents": "[['2013-03-16', 'christeningDate', 'AIDAstella']]"}
+{"id": "226", "contents": "[['AIDA_Cruises', 'operator', 'AIDAstella']]"}
+{"id": "227", "contents": "[['Mid-Atlantic_Regional_Spaceport', 'launchSite', 'ALV_X-1']]"}
+{"id": "228", "contents": "[['Douglas_R._Oberhelman', 'keyPerson', 'Caterpillar_Inc.']]"}
+{"id": "229", "contents": "[['Acura', 'division', 'Honda']]"}
+{"id": "230", "contents": "[['Germans', 'demonym', 'Germany']]"}
+{"id": "231", "contents": "[['1937', 'modelStartYear', 'Alvis_Speed_25']]"}

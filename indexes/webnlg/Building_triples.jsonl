@@ -1,0 +1,195 @@
+{"id": "0", "contents": "[['Brutalist_architecture', 'architecturalStyle', '103_Colmore_Row']]"}
+{"id": "1", "contents": "[['\"1973\"', 'buildingStartDate', '103_Colmore_Row']]"}
+{"id": "2", "contents": "[['1976', 'completionDate', '103_Colmore_Row']]"}
+{"id": "3", "contents": "[['23', 'floorCount', '103_Colmore_Row']]"}
+{"id": "4", "contents": "[['\"Colmore Row, Birmingham, England\"', 'location', '103_Colmore_Row']]"}
+{"id": "5", "contents": "[['1981', 'buildingStartDate', '108_St_Georges_Terrace']]"}
+{"id": "6", "contents": "[['1988', 'completionDate', '108_St_Georges_Terrace']]"}
+{"id": "7", "contents": "[['\"120 million (Australian dollars)\"', 'cost', '108_St_Georges_Terrace']]"}
+{"id": "8", "contents": "[['39500.0 (square metres)', 'floorArea', '108_St_Georges_Terrace']]"}
+{"id": "9", "contents": "[['50', 'floorCount', '108_St_Georges_Terrace']]"}
+{"id": "10", "contents": "[['Perth', 'location', '108_St_Georges_Terrace']]"}
+{"id": "11", "contents": "[['Helmut_Jahn', 'architect', '11_Diagonal_Street']]"}
+{"id": "12", "contents": "[['\"1978\"', 'buildingStartDate', '11_Diagonal_Street']]"}
+{"id": "13", "contents": "[['1200 (square metres)', 'floorArea', '11_Diagonal_Street']]"}
+{"id": "14", "contents": "[['20', 'floorCount', '11_Diagonal_Street']]"}
+{"id": "15", "contents": "[['Johannesburg', 'location', '11_Diagonal_Street']]"}
+{"id": "16", "contents": "[['Redefine_Properties_Limited', 'owner', '11_Diagonal_Street']]"}
+{"id": "17", "contents": "[['HOK_(firm)', 'architect', '200_Public_Square']]"}
+{"id": "18", "contents": "[['111484 (square metres)', 'floorArea', '200_Public_Square']]"}
+{"id": "19", "contents": "[['45', 'floorCount', '200_Public_Square']]"}
+{"id": "20", "contents": "[['\"Cleveland, Ohio 44114\"', 'location', '200_Public_Square']]"}
+{"id": "21", "contents": "[['Rafael_Vi\u00f1oly', 'architect', '20_Fenchurch_Street']]"}
+{"id": "22", "contents": "[['\"April 2014\"', 'completionDate', '20_Fenchurch_Street']]"}
+{"id": "23", "contents": "[['62145.3 (square metres)', 'floorArea', '20_Fenchurch_Street']]"}
+{"id": "24", "contents": "[['34', 'floorCount', '20_Fenchurch_Street']]"}
+{"id": "25", "contents": "[['London', 'location', '20_Fenchurch_Street']]"}
+{"id": "26", "contents": "[['\"January, 2014\"', 'buildingStartDate', '250_Delaware_Avenue']]"}
+{"id": "27", "contents": "[['\"110 million (dollars)\"', 'cost', '250_Delaware_Avenue']]"}
+{"id": "28", "contents": "[['30843.8 (square metres)', 'floorArea', '250_Delaware_Avenue']]"}
+{"id": "29", "contents": "[['12', 'floorCount', '250_Delaware_Avenue']]"}
+{"id": "30", "contents": "[['Buffalo,_New_York', 'location', '250_Delaware_Avenue']]"}
+{"id": "31", "contents": "[['Pickard_Chilton', 'architect', '300_North_LaSalle']]"}
+{"id": "32", "contents": "[['2009', 'completionDate', '300_North_LaSalle']]"}
+{"id": "33", "contents": "[['120770.0 (square metres)', 'floorArea', '300_North_LaSalle']]"}
+{"id": "34", "contents": "[['Illinois', 'location', '300_North_LaSalle']]"}
+{"id": "35", "contents": "[['1929', 'completionDate', '320_South_Boston_Building']]"}
+{"id": "36", "contents": "[['22', 'floorCount', '320_South_Boston_Building']]"}
+{"id": "37", "contents": "[['\"Exchange National Bank Building\"', 'formerName', '320_South_Boston_Building']]"}
+{"id": "38", "contents": "[['121.92 (metres)', 'height', '320_South_Boston_Building']]"}
+{"id": "39", "contents": "[['Populous_(company)', 'architect', '3Arena']]"}
+{"id": "40", "contents": "[['\"Concert and events venue\"', 'buildingType', '3Arena']]"}
+{"id": "41", "contents": "[['\"December 2008\"', 'completionDate', '3Arena']]"}
+{"id": "42", "contents": "[['28.0 (metres)', 'height', '3Arena']]"}
+{"id": "43", "contents": "[['\"North Wall Quay\"', 'location', '3Arena']]"}
+{"id": "44", "contents": "[['Live_Nation_Entertainment', 'owner', '3Arena']]"}
+{"id": "45", "contents": "[['3XN', 'architect', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "46", "contents": "[['Bella_Center', 'developer', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "47", "contents": "[['23', 'floorCount', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "48", "contents": "[['Copenhagen', 'location', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "49", "contents": "[['Bella_Center', 'owner', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "50", "contents": "[['Marriott_International', 'tenant', 'AC_Hotel_Bella_Sky_Copenhagen']]"}
+{"id": "51", "contents": "[['Munster', 'isPartOf', 'Adare']]"}
+{"id": "52", "contents": "[['Augustus_Pugin', 'architect', 'Adare_Manor']]"}
+{"id": "53", "contents": "[['1862', 'completionDate', 'Adare_Manor']]"}
+{"id": "54", "contents": "[['Adare', 'location', 'Adare_Manor']]"}
+{"id": "55", "contents": "[['J._P._McManus', 'owner', 'Adare_Manor']]"}
+{"id": "56", "contents": "[['Ethiopia', 'country', 'Addis_Ababa']]"}
+{"id": "57", "contents": "[['Addis_Ababa_Stadium', 'isPartOf', 'Addis_Ababa']]"}
+{"id": "58", "contents": "[['1961', 'buildingStartDate', 'Addis_Ababa_City_Hall']]"}
+{"id": "59", "contents": "[['Seat_of_local_government', 'buildingType', 'Addis_Ababa_City_Hall']]"}
+{"id": "60", "contents": "[['1964', 'completionDate', 'Addis_Ababa_City_Hall']]"}
+{"id": "61", "contents": "[['Ethiopia', 'country', 'Addis_Ababa_City_Hall']]"}
+{"id": "62", "contents": "[['\"Government of Addis Ababa\"', 'currentTenants', 'Addis_Ababa_City_Hall']]"}
+{"id": "63", "contents": "[['140000.0 (square metres)', 'floorArea', 'Addis_Ababa_City_Hall']]"}
+{"id": "64", "contents": "[['\"42 m\"', 'height', 'Addis_Ababa_City_Hall']]"}
+{"id": "65", "contents": "[['Addis_Ababa', 'location', 'Addis_Ababa_City_Hall']]"}
+{"id": "66", "contents": "[['\"St. Benedict\\'s Monastery, Adisham, Haputhale, Sri Lanka\"', 'address', 'Adisham_Hall']]"}
+{"id": "67", "contents": "[['\"Tudor and Jacabian\"', 'architecturalStyle', 'Adisham_Hall']]"}
+{"id": "68", "contents": "[['\"1927\"', 'buildingStartDate', 'Adisham_Hall']]"}
+{"id": "69", "contents": "[['1931', 'completionDate', 'Adisham_Hall']]"}
+{"id": "70", "contents": "[['Sri_Lanka', 'country', 'Adisham_Hall']]"}
+{"id": "71", "contents": "[['\"Haputale, Sri Lanka\"', 'location', 'Adisham_Hall']]"}
+{"id": "72", "contents": "[['India', 'country', 'Ahmedabad']]"}
+{"id": "73", "contents": "[['Japan', 'country', 'Akita,_Akita']]"}
+{"id": "74", "contents": "[['Akita_Prefecture', 'isPartOf', 'Akita,_Akita']]"}
+{"id": "75", "contents": "[['\"1-4-2 Nakadori\"', 'address', 'Akita_Museum_of_Art']]"}
+{"id": "76", "contents": "[['Tadao_Ando', 'architect', 'Akita_Museum_of_Art']]"}
+{"id": "77", "contents": "[['3746.66 (square metres)', 'floorArea', 'Akita_Museum_of_Art']]"}
+{"id": "78", "contents": "[['3', 'floorCount', 'Akita_Museum_of_Art']]"}
+{"id": "79", "contents": "[['Akita,_Akita', 'location', 'Akita_Museum_of_Art']]"}
+{"id": "80", "contents": "[['Japan', 'country', 'Akita_Prefecture']]"}
+{"id": "81", "contents": "[['\"101 Ukrop Way\"', 'address', 'Alan_B._Miller_Hall']]"}
+{"id": "82", "contents": "[['Robert_A._M._Stern', 'architect', 'Alan_B._Miller_Hall']]"}
+{"id": "83", "contents": "[['Georgian_architecture', 'architecturalStyle', 'Alan_B._Miller_Hall']]"}
+{"id": "84", "contents": "[['\"30 March 2007\"', 'buildingStartDate', 'Alan_B._Miller_Hall']]"}
+{"id": "85", "contents": "[['\"1 June 2009\"', 'completionDate', 'Alan_B._Miller_Hall']]"}
+{"id": "86", "contents": "[['\"75.0 million (dollars)\"', 'cost', 'Alan_B._Miller_Hall']]"}
+{"id": "87", "contents": "[['\"2009-10-02\"', 'inaugurationDate', 'Alan_B._Miller_Hall']]"}
+{"id": "88", "contents": "[['Virginia', 'location', 'Alan_B._Miller_Hall']]"}
+{"id": "89", "contents": "[['Mason_School_of_Business', 'tenant', 'Alan_B._Miller_Hall']]"}
+{"id": "90", "contents": "[['England', 'birthPlace', 'Alfred_Giles_(architect)']]"}
+{"id": "91", "contents": "[['Kendall_County,_Texas', 'placeOfDeath', 'Alfred_Giles_(architect)']]"}
+{"id": "92", "contents": "[['1995', 'completionDate', 'Amdavad_ni_Gufa']]"}
+{"id": "93", "contents": "[['India', 'country', 'Amdavad_ni_Gufa']]"}
+{"id": "94", "contents": "[['Ahmedabad', 'location', 'Amdavad_ni_Gufa']]"}
+{"id": "95", "contents": "[['476', 'bedCount', 'Ampara_Hospital']]"}
+{"id": "96", "contents": "[['Ampara', 'location', 'Ampara_Hospital']]"}
+{"id": "97", "contents": "[['Ampara_District', 'region', 'Ampara_Hospital']]"}
+{"id": "98", "contents": "[['Eastern_Province,_Sri_Lanka', 'state', 'Ampara_Hospital']]"}
+{"id": "99", "contents": "[['<http://www.ghampara.gov.lk/>', 'website', 'Ampara_Hospital']]"}
+{"id": "100", "contents": "[['Alfred_Giles_(architect)', 'architect', 'Asher_and_Mary_Isabelle_Richardson_House']]"}
+{"id": "101", "contents": "[['Asherton,_Texas', 'location', 'Asher_and_Mary_Isabelle_Richardson_House']]"}
+{"id": "102", "contents": "[['1911', 'yearOfConstruction', 'Asher_and_Mary_Isabelle_Richardson_House']]"}
+{"id": "103", "contents": "[['United_States', 'country', 'Asherton,_Texas']]"}
+{"id": "104", "contents": "[['Dimmit_County,_Texas', 'isPartOf', 'Asherton,_Texas']]"}
+{"id": "105", "contents": "[['\"87000823\"', 'ReferenceNumber in the National Register of Historic Places', 'Asilomar_Conference_Grounds']]"}
+{"id": "106", "contents": "[['\"1987-02-27\"', 'added to the National Register of Historic Places', 'Asilomar_Conference_Grounds']]"}
+{"id": "107", "contents": "[['American_Craftsman', 'architecturalStyle', 'Asilomar_Conference_Grounds']]"}
+{"id": "108", "contents": "[['\"Asilomar Blvd., Pacific Grove, California\"', 'location', 'Asilomar_Conference_Grounds']]"}
+{"id": "109", "contents": "[['\"80002709\"', 'ReferenceNumber in the National Register of Historic Places', 'Asser_Levy_Public_Baths']]"}
+{"id": "110", "contents": "[['\"1980-04-23\"', 'added to the National Register of Historic Places', 'Asser_Levy_Public_Baths']]"}
+{"id": "111", "contents": "[['Romanesque_Revival_architecture', 'architecturalStyle', 'Asser_Levy_Public_Baths']]"}
+{"id": "112", "contents": "[['\"Asser Levy Place and East 23rd Street\"', 'location', 'Asser_Levy_Public_Baths']]"}
+{"id": "113", "contents": "[['Bloomsbury', 'birthPlace', 'Augustus_Pugin']]"}
+{"id": "114", "contents": "[['Palace_of_Westminster', 'significantBuilding', 'Augustus_Pugin']]"}
+{"id": "115", "contents": "[['Birmingham_City_Council', 'governingBody', 'Birmingham']]"}
+{"id": "116", "contents": "[['Andrew_Mitchell', 'leaderName', 'Birmingham']]"}
+{"id": "117", "contents": "[['New_York', 'isPartOf', 'Buffalo,_New_York']]"}
+{"id": "118", "contents": "[['United_States', 'country', 'Chicago']]"}
+{"id": "119", "contents": "[['Cook_County,_Illinois', 'isPartOf', 'Chicago']]"}
+{"id": "120", "contents": "[['Rahm_Emanuel', 'leaderName', 'Chicago']]"}
+{"id": "121", "contents": "[['United_States', 'country', 'Cleveland']]"}
+{"id": "122", "contents": "[['Cleveland_City_Council', 'governingBody', 'Cleveland']]"}
+{"id": "123", "contents": "[['Cuyahoga_County,_Ohio', 'isPartOf', 'Cleveland']]"}
+{"id": "124", "contents": "[['Frank_G._Jackson', 'leaderName', 'Cleveland']]"}
+{"id": "125", "contents": "[['Robert_Gates', 'chancellor', 'College_of_William_&_Mary']]"}
+{"id": "126", "contents": "[['Limerick_City_and_County_Council', 'governmentType', 'County_Limerick']]"}
+{"id": "127", "contents": "[['Copenhagen', 'capital', 'Denmark']]"}
+{"id": "128", "contents": "[['Faroese_language', 'language', 'Denmark']]"}
+{"id": "129", "contents": "[['Lars_L\u00f8kke_Rasmussen', 'leaderName', 'Denmark']]"}
+{"id": "130", "contents": "[['Republic_of_Ireland', 'isPartOf', 'Dublin']]"}
+{"id": "131", "contents": "[['D\u00e1il_\u00c9ireann', 'leaderTitle', 'Dublin']]"}
+{"id": "132", "contents": "[['Eastern_Provincial_Council', 'governingBody', 'Eastern_Province,_Sri_Lanka']]"}
+{"id": "133", "contents": "[['Austin_Fernando', 'leaderName', 'Eastern_Province,_Sri_Lanka']]"}
+{"id": "134", "contents": "[['Ethiopian_birr', 'currency', 'Ethiopia']]"}
+{"id": "135", "contents": "[['Amharic', 'language', 'Ethiopia']]"}
+{"id": "136", "contents": "[['Hailemariam_Desalegn', 'leaderName', 'Ethiopia']]"}
+{"id": "137", "contents": "[['United_States', 'country', 'George_Winkler']]"}
+{"id": "138", "contents": "[['Anandiben_Patel', 'leaderName', 'Gujarat']]"}
+{"id": "139", "contents": "[['Gujarat_Legislative_Assembly', 'leaderTitle', 'Gujarat']]"}
+{"id": "140", "contents": "[['Springfield,_Illinois', 'capital', 'Illinois']]"}
+{"id": "141", "contents": "[['United_States', 'country', 'Illinois']]"}
+{"id": "142", "contents": "[['English_language', 'language', 'Illinois']]"}
+{"id": "143", "contents": "[['Narendra_Modi', 'leaderName', 'India']]"}
+{"id": "144", "contents": "[['Chinese_people_in_Japan', 'ethnicGroup', 'Japan']]"}
+{"id": "145", "contents": "[['Akihito', 'leaderName', 'Japan']]"}
+{"id": "146", "contents": "[['Birmingham', 'birthPlace', 'John_Madin']]"}
+{"id": "147", "contents": "[['Birmingham', 'hometown', 'John_Madin']]"}
+{"id": "148", "contents": "[['California', 'birthPlace', 'Julia_Morgan']]"}
+{"id": "149", "contents": "[['Asilomar_State_Beach', 'significantBuilding', 'Julia_Morgan']]"}
+{"id": "150", "contents": "[['Hearst_Castle', 'significantProject', 'Julia_Morgan']]"}
+{"id": "151", "contents": "[['Boris_Johnson', 'leaderName', 'London']]"}
+{"id": "152", "contents": "[['European_Parliament', 'leaderTitle', 'London']]"}
+{"id": "153", "contents": "[['Cyrus_Vance,_Jr.', 'leaderName', 'Manhattan']]"}
+{"id": "154", "contents": "[['Washington,_D.C.', 'foundationPlace', 'Marriott_International']]"}
+{"id": "155", "contents": "[['Bethesda,_Maryland', 'location', 'Marriott_International']]"}
+{"id": "156", "contents": "[['United_States', 'country', 'Mason_School_of_Business']]"}
+{"id": "157", "contents": "[['United_States', 'country', 'New_York_City']]"}
+{"id": "158", "contents": "[['Brooklyn', 'isPartOf', 'New_York_City']]"}
+{"id": "159", "contents": "[['United_States', 'country', 'Pacific_Grove,_California']]"}
+{"id": "160", "contents": "[['Australia', 'country', 'Perth']]"}
+{"id": "161", "contents": "[['Euro', 'currency', 'Republic_of_Ireland']]"}
+{"id": "162", "contents": "[['Irish_people', 'demonym', 'Republic_of_Ireland']]"}
+{"id": "163", "contents": "[['Irish_language', 'language', 'Republic_of_Ireland']]"}
+{"id": "164", "contents": "[['Enda_Kenny', 'leaderName', 'Republic_of_Ireland']]"}
+{"id": "165", "contents": "[['South_Africa', 'demonym', 'South_Africa']]"}
+{"id": "166", "contents": "[['Asian_South_Africans', 'ethnicGroup', 'South_Africa']]"}
+{"id": "167", "contents": "[['Cyril_Ramaphosa', 'leaderName', 'South_Africa']]"}
+{"id": "168", "contents": "[['Sri_Jayawardenepura_Kotte', 'capital', 'Sri_Lanka']]"}
+{"id": "169", "contents": "[['Sri_Lankan_rupee', 'currency', 'Sri_Lanka']]"}
+{"id": "170", "contents": "[['Tamil_language', 'language', 'Sri_Lanka']]"}
+{"id": "171", "contents": "[['Ranil_Wickremesinghe', 'leaderName', 'Sri_Lanka']]"}
+{"id": "172", "contents": "[['Pound_sterling', 'currency', 'United_Kingdom']]"}
+{"id": "173", "contents": "[['British_people', 'demonym', 'United_Kingdom']]"}
+{"id": "174", "contents": "[['Washington,_D.C.', 'capital', 'United_States']]"}
+{"id": "175", "contents": "[['African_Americans', 'ethnicGroup', 'United_States']]"}
+{"id": "176", "contents": "[['English_language', 'language', 'United_States']]"}
+{"id": "177", "contents": "[['Barack_Obama', 'leaderName', 'United_States']]"}
+{"id": "178", "contents": "[['President_of_the_United_States', 'leaderTitle', 'United_States']]"}
+{"id": "179", "contents": "[['United_States', 'country', 'Virginia']]"}
+{"id": "180", "contents": "[['John_Madin', 'architect', '103_Colmore_Row']]"}
+{"id": "181", "contents": "[['1983', 'completionDate', '11_Diagonal_Street']]"}
+{"id": "182", "contents": "[['\"January 2009\"', 'buildingStartDate', '20_Fenchurch_Street']]"}
+{"id": "183", "contents": "[['60', 'floorCount', '300_North_LaSalle']]"}
+{"id": "184", "contents": "[['Republic_of_Ireland', 'country', 'Adare_Manor']]"}
+{"id": "185", "contents": "[['Japan', 'country', 'Akita_Museum_of_Art']]"}
+{"id": "186", "contents": "[['Mason_School_of_Business', 'currentTenants', 'Alan_B._Miller_Hall']]"}
+{"id": "187", "contents": "[['College_of_William_&_Mary', 'owner', 'Alan_B._Miller_Hall']]"}
+{"id": "188", "contents": "[['\"Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road\"', 'address', 'Amdavad_ni_Gufa']]"}
+{"id": "189", "contents": "[['Sri_Lanka', 'country', 'Ampara_Hospital']]"}
+{"id": "190", "contents": "[['Julia_Morgan', 'architect', 'Asilomar_Conference_Grounds']]"}
+{"id": "191", "contents": "[['Republic_of_Ireland', 'country', 'Dublin']]"}
+{"id": "192", "contents": "[['Indian_people', 'demonym', 'India']]"}
+{"id": "193", "contents": "[['George_Winkler', 'architect', '320_South_Boston_Building']]"}
+{"id": "194", "contents": "[['B_postcode_area', 'postalCode', 'Birmingham']]"}
